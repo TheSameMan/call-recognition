@@ -1,0 +1,15 @@
+*.wav
+*.log
+*.sql
+*.csv
+
+__pycache__
+*.pyc
+
+.project
+.pydevproject
+
+
+
+positive
+config.py
